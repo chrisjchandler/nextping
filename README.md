@@ -9,4 +9,4 @@ sudo ./nextping cnn.com <-- ICMP reachability method
 answer the prompts 
 
 Demo output
-![icmp run with loss] (image.jpg)
+![icmp run with loss](image.jpg "demo")
